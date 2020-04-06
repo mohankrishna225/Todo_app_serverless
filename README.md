@@ -3,7 +3,7 @@
 ## Project Components
 - Restful API (Lambda Functions, API Gateway and DynamoDb)
 - Client (React)
-<img src="screenshots/Todo Application.png>
+<img src="screenshots/Todo Application.png">
 ## How to run the application
 ### Backend
 To deploy an application run the following commands:
