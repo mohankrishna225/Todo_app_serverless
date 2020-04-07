@@ -23,5 +23,5 @@ npm run start
 ## Deplyment details
 API Endpoint
 ```
-https://zm4pwpef06.execute-api.us-east-1.amazonaws.com/dev/todos
+https://48gt4jv9li.execute-api.us-east-1.amazonaws.com/dev/todos
 ```
